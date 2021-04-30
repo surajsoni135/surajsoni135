@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surajsoni135
-- 👀 I’m interested in Platform Architect, Full Stack Development, Android, Flutter, & Go
+- 👀 Platform Architect, Full Stack Development, Android, Flutter, & Go
 - 🌱 Always Learning
 - 💞️ Looking to collaborate on anything find interesting
 - 📫 Reach me at surajsoni135@gmail.com or Twitter (@surajsoni135)
